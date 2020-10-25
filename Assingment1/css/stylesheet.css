@@ -1,0 +1,93 @@
+body{
+    background-color:#d8bc66;
+    margin: 0;
+    text-align: center;
+    font-family: 'Sansita Swashed', cursive;
+}
+
+h2{
+    border-style: outset;
+    font-family: 'Times New Roman', Times, serif;
+    background-color: #136377;
+    color:#ffd300;
+}
+h3{
+    font-size: xx-large;
+}
+
+p{
+    
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+h1{
+    font-size: 80px;
+    font-family: 'Sansita Swashed', cursive;
+    background-color: #136377;
+    border-style: outset;
+    color:#ffd300;
+}
+.banner{
+    background-color:#ffd300;
+    position: relative;
+    padding-top: 100px;
+}
+.note1{
+    position: absolute;
+    right: 400px;
+    top: 400px;
+}
+.note2{
+    position: absolute;
+    left: 200px;
+    top: 400px;
+}
+.note3{
+    position: absolute;
+    right: 300px;
+    top: 700px;
+}
+.note4{
+    position: absolute;
+    left: 300px;
+    top: 700px;
+}
+.notetl{
+    position: absolute;
+    right: 400px;
+    top: 10px;
+}
+.notetr{
+    position: absolute;
+    left: 300px;
+    top: 10px;
+}
+.filmicon{
+    top:300px
+}
+.main{
+ 
+    width: 50;
+    margin: 50px auto 50px auto;
+    text-align: left;
+    line-height: 2;
+}
+.studiologo{
+    top: 100px;
+    float: left;
+    margin-right: 30;
+}
+.projects{
+    clear: right;
+    padding-top: 20px;
+}
+.about{
+position: relative;
+}
+.whatwedo{
+    clear: left;
+    padding-top: 20px;
+}
+.titles{
+    font-family: 'Sansita Swashed', cursive;
+    font-size: 80px;
+}
